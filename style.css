@@ -8,6 +8,7 @@
 .sky-bg{
     background-color: #F0FFF0;
     border-radius: 10px;
+
 }
 .button-style{
      background-image: linear-gradient(to bottom, rgb(84, 185, 84) 0%, rgb(62, 184, 62) 100%);
@@ -20,6 +21,17 @@
 .courses{
     text-align: left;
 }
+.card{
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Blogs{
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+}
 h2{   
     text-align: center; 
 }
@@ -31,17 +43,6 @@ h6{
 }
 p{
     text-align: justify;
-}
-.card{
-    text-align: center;
-    border: none;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px lightgray;
-}
-#Blogs{
-    border-radius: 10px;
-    background-color: gray;
-    color: white;
 }
 footer{
     text-align: center;
