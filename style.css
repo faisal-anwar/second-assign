@@ -1,0 +1,49 @@
+.name-highlight{
+    font-size: 50px;
+    color: rgb(11, 194, 194);
+}
+.container{
+    margin-bottom: 88px;
+    }
+.sky-bg{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+}
+.button-style{
+     background-image: linear-gradient(to bottom, rgb(84, 185, 84) 0%, rgb(62, 184, 62) 100%);
+     color:white ;
+     border: none;
+     border-radius: 8px;
+     padding: 9px 25px;
+     cursor: pointer;
+}
+.courses{
+    text-align: left;
+}
+h2{   
+    text-align: center; 
+}
+h3{
+    text-align: center;
+}
+h6{
+    color: red;
+}
+p{
+    text-align: justify;
+}
+.card{
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Blogs{
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+}
+footer{
+    text-align: center;
+    color: darkmagenta;
+}
